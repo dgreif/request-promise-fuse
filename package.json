@@ -1,0 +1,13 @@
+{
+  "name": "request-promise-fuse",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node fuse.js && node lib/app.js"
+  },
+  "dependencies": {
+    "fuse-box": "2.3.1-beta.15",
+    "request-promise": "4.2.1",
+    "tslib": "1.7.1",
+    "typescript": "2.5.2"
+  }
+}

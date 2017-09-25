@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "strict": true,
+    "noEmitHelpers": true,
+    "importHelpers": true,
+    "noEmitOnError": true,
+    "sourceMap": true,
+    "outDir": "lib",
+    "skipLibCheck": true,
+    "lib": [
+      "es2015",
+      "es2017"
+    ]
+  }
+}
